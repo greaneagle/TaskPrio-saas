@@ -13,6 +13,7 @@
   },
   "main": "lib/index.js",
   "dependencies": {
+    "@fireactjs/saas-cloud-functions": "^1.2.5",
     "firebase-admin": "^11.11.1",
     "firebase-functions": "^4.6.0",
     "form-data": "^4.0.0",
